@@ -2,7 +2,7 @@ export const site = {
     name: 'Automate_in',
     title: 'Automate_in | Home & Office Automation in Jabalpur',
     description: 'Explore smart lighting, security, climate control, home theatre, voice control and curtain automation with Automate_in in Jabalpur.',
-    origin: 'https://primezen-experience.lewan55.chatgpt.site',
+    origin: 'automateweb55.vercel.app',
     phone: '+91 9424786074', phoneHref: 'tel:+919424786074',
     email: 'automatein79@gmail.com', whatsapp: 'https://wa.me/919424786074',
     instagram: 'https://www.instagram.com/automate_in',
